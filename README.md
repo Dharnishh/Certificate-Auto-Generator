@@ -35,8 +35,8 @@ function sendCertificates() {
 function createCertificate(name, templateId) {
   // Creates a certificate by replacing the name placeholder
 }
-
-## Requirements
+``` 
+Requirements
 - Google Sheet with student data
 - Google Slides certificate template
 - Google Apps Script enabled
@@ -45,4 +45,7 @@ function createCertificate(name, templateId) {
 Crafted and directed by Dinesh, a meticulous art director and educator, committed to blending visual precision with technical transparency.
 
 📬 Contact
-For questions or collaborations, feel free to reach out via GitHub or LinkedIn.
+For questions or collaborations, feel free to reach out via GitHub or LinkedIn @pv-dinesh.
+`
+
+---
